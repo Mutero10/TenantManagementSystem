@@ -1,4 +1,4 @@
-package com.example.tenantmanagementsystemgroupa
+package com.example.tenantmanagmentsystem
 data class Tenant(
     val name: String,
     val phone: String,
